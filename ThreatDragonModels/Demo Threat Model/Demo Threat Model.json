@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Demo Threat Model",
+    "owner": "Chad Eckles",
+    "description": "Threat model of a fictitious app for demo purposes"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Jan McBosserson"
+  }
+}
