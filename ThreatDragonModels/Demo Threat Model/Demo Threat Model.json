@@ -6,7 +6,15 @@
   },
   "detail": {
     "contributors": [],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "name": "",
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.0"
+      }
+    ],
     "reviewer": "Jan McBosserson"
   },
   "version": "2.0.0"
